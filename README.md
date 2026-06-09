@@ -42,12 +42,4 @@ This public repository is a showcase version for portfolio, product documentatio
 
 https://stayloyal.xyz/
 
-## Screenshots
 
-![Stay Loyal Landing Page](image.png)
-![Founders Dashboard Overview](image-1.png)
-![Founders Dashboard Holders Page](image.png)
-![Founders Dashboard Evolution Page](image-1.png)
-![Founders Dashboard Reward Page](image-2.png)
-![Founders Dashboard Settings Page](image-3.png)
-![Founders Dashboard Growth Page](image-4.png)
